@@ -1,10 +1,15 @@
-	
+/*Couleur de fond*/
+body
+{
+	background-color:#1d191f
+}
+		
 /*Titre principal*/
 h1 
 {
 	color: #fff;
 	font-family: 'Cormorant Garamond';
-	border-bottom: 3px solid #e66c7e;
+	border-bottom: 3px solid #D35400;
 	font-size: 48px;
 	font-weight: 400;
 	line-height: 72px;
@@ -13,5 +18,19 @@ h1
 	text-align: center;
 	text-indent: 24px;
 	text-transform: uppercase;
+}
+
+/*Titre secondaire */
+h2
+{
+    color: #fff;
+	font-family: 'Cormorant Garamond';
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 400;
+	line-height: 48px;
+	max-width: 640px;
+	margin: 0 auto 48px;
+	text-align: center;
 }
 
