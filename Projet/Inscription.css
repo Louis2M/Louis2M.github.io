@@ -46,8 +46,3 @@ Label1
 	text-transform: uppercase;
 	margin-bottom: 200px;
 }
-Label1:hover 
-{
-	color: #fff;
-	border-bottom: 2px solid #fff;
-}
