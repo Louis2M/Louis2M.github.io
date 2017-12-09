@@ -1,5 +1,14 @@
 html
 
+/*Image de fond*/
+
+body 
+{
+    background-image:url(https://www.google.fr/imgres?imgurl=http%3A%2F%2Fwww.maxiapple.com%2Fwp-content%2Fuploads%2F2012%2F03%2Fretina-ipad-wallpapers-3.jpg&imgrefurl=http%3A%2F%2Fwww.maxiapple.com%2F2012%2F03%2F12-fonds-ecran-hd-ipad-ecran-retina-gratuit.html&docid=FgM1YaRT8xx1LM&tbnid=PmU1k389CEJ9iM%3A&vet=10ahUKEwiwipHeiP3XAhXR-KQKHaB7AoEQMwhoKCMwIw..i&w=560&h=382&bih=637&biw=1366&q=image%20de%20fond%20pour%20site%20gratuit&ved=0ahUKEwiwipHeiP3XAhXR-KQKHaB7AoEQMwhoKCMwIw&iact=mrc&uact=8.png);
+}
+
+
+
 h1
 {
     color: red;
