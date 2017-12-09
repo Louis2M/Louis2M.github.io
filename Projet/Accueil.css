@@ -35,7 +35,7 @@ h2
 }
     
 /*Bouton*/
-Bouton1
+Label1
 {
 	color: #D35400;	border-bottom: 2px solid #D35400;
 	font-family: 'Cormorant Garamond';
@@ -46,7 +46,7 @@ Bouton1
 	text-transform: uppercase;
 	margin-bottom: 200px;
 }
-Bouton1:hover 
+Label1:hover 
 {
 	color: #fff;
 	border-bottom: 2px solid #fff;
