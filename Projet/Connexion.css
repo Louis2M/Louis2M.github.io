@@ -46,3 +46,20 @@ Label1
 	text-decoration: none;
 	text-transform: uppercase;
 }
+
+Label2
+{	
+	color: #D35400;	
+	border-bottom: 2px solid #D35400;
+	font-family: 'Cormorant Garamond';
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 3px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+Label2:hover 
+{
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
