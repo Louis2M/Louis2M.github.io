@@ -1,13 +1,3 @@
-html
-
-/*Image de fond*/
-body 
-{
-    background-image:url("https://rocketsigns.co.za/wp-content/uploads/2015/07/grey-background-pattern.png");
-    background-size: contain;
-}
-
-
 /*Titre principal*/
 h1 
 {
