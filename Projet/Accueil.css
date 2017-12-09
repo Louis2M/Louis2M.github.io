@@ -23,7 +23,7 @@ h1
 /*Titre secondaire */
 h2
 {
-    color: #fff;
+    	color: #fff;
 	font-family: 'Cormorant Garamond';
 	font-size: 28px;
 	font-style: italic;
@@ -37,14 +37,15 @@ h2
 /*Bouton*/
 Label1
 {
-	color: #D35400;	border-bottom: 2px solid #D35400;
+	color: #fff;	
+	border-bottom: 2px solid #D35400;
 	font-family: 'Cormorant Garamond';
 	font-size: 16px;
 	font-weight: 700;
 	letter-spacing: 3px;
 	text-decoration: none;
 	text-transform: uppercase;
-	margin-bottom: 200px;
+	text-align: center;
 }
 Label1:hover 
 {
