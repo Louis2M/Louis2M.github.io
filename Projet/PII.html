@@ -2,36 +2,45 @@
 
 <html>
 
-<!-- Titre principal -->	
+<!-- Titre onglet -->	
 <head>
-	<title> test </title>
+	<title> Accueil </title>
 </head>
 
 <!-- Corps de la page -->
 <body>
+	<h1> <center> Fund Management Portal </h1>
 	<h1> <center> Bienvenue sur cette Plateforme de SmartData dédiée aux Gestionnaires d'Actifs </center> </h1>
-		
-		<form>
+	<h2> Connexion : </h2>
+	
+	<!-- Case nom d'utilsateur -->
+	<form>
             <p>
-			<h2> Identifiant : </h2>
-            <input type="identification" name="identification" />
+		<h3> Nom d'utilisateur </h3>
+            	<input type="identification" name="identification" />
             </p>
-        </form>
-		
-	  	<form>
+       	</form>
+	
+	<!-- Case mot de passe -->
+	<form>
             <p>
-			<h2> Mot de passe : </h2>
-            <input type="password" name="mot_de_passe" />
-            <input type="submit" value="Valider" />
+		<h2> Mot de passe : </h2>
+            	<input type="password" name="mot_de_passe" />
+            	<input type="submit" value="Valider" />
             </p>
         </form> 
-		
-		<form>
-		<a href="../HTML/Inscription.html">
-		<input type="button" value="Pas encore inscrit ?">
-		</a>
-		</form>
 	
-	</body>
+	<!-- Bouton valider -->
+	<form>
+		<input type="button" value="Valider">
+	</form>
+	
+	<!-- Bouton pas encore inscrit -->
+	<form>
+		<a href="../HTML/Inscription.html">
+			<input type="button" value="Pas encore inscrit ?">
+		</a>
+	</form>
+</body>
 	
 </html>
