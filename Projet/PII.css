@@ -1,6 +1,9 @@
 /*Couleur de fond*/
-background-color:#1d191f
-
+body
+{
+	background-color:#1d191f
+}
+		
 /*Titre principal*/
 h1 
 {
