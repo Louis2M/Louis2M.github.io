@@ -34,4 +34,20 @@ h2
 	text-align: center;
 }
 
-
+/*Bouton*/
+Label1
+{
+	color: #D35400;	border-bottom: 2px solid #D35400;
+	font-family: 'Cormorant Garamond';
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 3px;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-bottom: 200px;
+}
+Label1:hover 
+{
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
