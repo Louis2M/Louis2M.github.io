@@ -52,5 +52,11 @@ Label1:hover
 	border-bottom: 2px solid #fff;
 }
 
+/*Lien*/
+a
+{
+	color: #D35400;	
+}
+
 
 
