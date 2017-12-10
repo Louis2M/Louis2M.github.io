@@ -57,6 +57,11 @@ a
 {
 	color: #D35400;	
 }
+a:hover
+{
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
 
 
 
