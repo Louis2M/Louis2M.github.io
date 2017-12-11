@@ -1,1 +1,64 @@
+/*Couleur de fond*/
+body
+{
+	background-color:#1d191f
+}
+		
+/*Titre principal*/
+h1 
+{
+	color: #fff;
+	font-family: 'Cormorant Garamond';
+	border-bottom: 3px solid #D35400;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 72px;
+	letter-spacing: 30px;
+	margin-bottom: 50px;
+	text-align: center;
+	text-indent: 24px;
+	text-transform: uppercase;
+}
+
+/*Titre secondaire */
+h2
+{	
+    	color: #fff;
+	font-family: 'Cormorant Garamond';
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 400;
+	line-height: 48px;
+	max-width: 640px;
+	margin: 0 auto 48px;
+	text-align: center;
+}
+    
+/*Bouton*/
+Label1
+{
+	color: #D35400;	
+	border-bottom: 2px solid #D35400;
+	font-family: 'Cormorant Garamond';
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 3px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+Label1:hover 
+{
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+
+/*Lien*/
+a
+{
+	color: #D35400;	
+}
+a:hover
+{
+	color: #fff;
+}
 
