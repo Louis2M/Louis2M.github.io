@@ -46,11 +46,6 @@ Label1
 	text-decoration: none;
 	text-transform: uppercase;
 }
-Label1:hover 
-{
-	color: #fff;
-	border-bottom: 2px solid #fff;
-}
 
 /*Lien*/
 a
