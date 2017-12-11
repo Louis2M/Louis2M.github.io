@@ -51,6 +51,7 @@ Label1
 /*Lien*/
 a
 {
+	text-align:center;
 	color: #D35400;	
 }
 a:hover
